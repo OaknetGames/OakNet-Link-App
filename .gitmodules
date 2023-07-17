@@ -1,0 +1,3 @@
+[submodule "OakNet-Link-Api"]
+	path = OakNet-Link-Api
+	url = https://github.com/OaknetGames/OakNet-Link-Api.git
