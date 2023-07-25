@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakNet-Link-Api", "OakNet-Link-Api\OakNet-Link-Api\OakNet-Link-Api.csproj", "{C7937197-A3F4-4BB5-AC8E-B278800E2510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakNet-Link-MasterServer", "OakNet-Link-Api\OakNet-Link-MasterServer\OakNet-Link-MasterServer.csproj", "{A8EA50FB-C676-4613-A625-E3AF4A9BCC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakNet-Link-Sessions", "OakNet-Link-Api\OakNet-Link-Sessions\OakNet-Link-Sessions.csproj", "{4FB41131-E040-4238-B351-9F44414A0690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakNet-Link-Tunnel", "OakNet-Link-Tunnel\OakNet-Link-Tunnel.csproj", "{10C71295-74E3-4BA9-AB0C-E5A1BE8F9B9A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OakNet-Link-WinTunDriver", "OakNet-Link-WinTunDriver\OakNet-Link-WinTunDriver.vcxproj", "{65BD2428-DE5F-42FF-9B94-BD4008219254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OakNet-Link-App", "OakNet-Link-App\OakNet-Link-App.csproj", "{E2B5C253-A12B-41E1-B43B-BEC0B99779EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7937197-A3F4-4BB5-AC8E-B278800E2510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7937197-A3F4-4BB5-AC8E-B278800E2510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7937197-A3F4-4BB5-AC8E-B278800E2510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7937197-A3F4-4BB5-AC8E-B278800E2510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8EA50FB-C676-4613-A625-E3AF4A9BCC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8EA50FB-C676-4613-A625-E3AF4A9BCC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8EA50FB-C676-4613-A625-E3AF4A9BCC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8EA50FB-C676-4613-A625-E3AF4A9BCC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB41131-E040-4238-B351-9F44414A0690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB41131-E040-4238-B351-9F44414A0690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB41131-E040-4238-B351-9F44414A0690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB41131-E040-4238-B351-9F44414A0690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C71295-74E3-4BA9-AB0C-E5A1BE8F9B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C71295-74E3-4BA9-AB0C-E5A1BE8F9B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C71295-74E3-4BA9-AB0C-E5A1BE8F9B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C71295-74E3-4BA9-AB0C-E5A1BE8F9B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BD2428-DE5F-42FF-9B94-BD4008219254}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{65BD2428-DE5F-42FF-9B94-BD4008219254}.Debug|Any CPU.Build.0 = Debug|Win32
+		{65BD2428-DE5F-42FF-9B94-BD4008219254}.Release|Any CPU.ActiveCfg = Release|Win32
+		{65BD2428-DE5F-42FF-9B94-BD4008219254}.Release|Any CPU.Build.0 = Release|Win32
+		{E2B5C253-A12B-41E1-B43B-BEC0B99779EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B5C253-A12B-41E1-B43B-BEC0B99779EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B5C253-A12B-41E1-B43B-BEC0B99779EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B5C253-A12B-41E1-B43B-BEC0B99779EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
